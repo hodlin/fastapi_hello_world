@@ -1,3 +1,5 @@
+Dockerfile*
+.gitignore
 *.ini
 __pycache__
 .pytest_cache
